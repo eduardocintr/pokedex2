@@ -1,14 +1,24 @@
-POKEDEX - Aplicação React
+POKEDEX - Aplicativo React
 
 Descrição
 
-A POKEDEX é uma aplicação desenvolvida em React que permite buscar informações sobre qualquer Pokémon utilizando a PokeAPI. O usuário pode inserir o nome do Pokémon desejado, e a aplicação retornará seus principais dados, como número da Pokédex, altura, peso e tipo(s), além de exibir sua imagem oficial.
+A POKEDEX é um aplicativo desenvolvido em React.js que permite aos usuários pesquisar informações sobre qualquer Pokémon utilizando a PokeAPI. Basta inserir o nome do Pokémon desejado para obter detalhes como:
 
-Funcionalidades
+Número na Pokédex
 
-🔎 Busca de Pokémon por nome.
+Altura e Peso
 
-📋 Exibição de informações detalhadas sobre o Pokémon.
+Tipos
+
+Imagem Oficial
+
+Caso o Pokémon não seja encontrado, a aplicação exibirá um alerta de erro.
+
+🌟 Funcionalidades
+
+🔎 Busca rápida de Pokémons pelo nome.
+
+🗃️ Exibição detalhada das informações de cada Pokémon.
 
 ⚠️ Indicação de erro caso o Pokémon não seja encontrado.
 
@@ -22,35 +32,28 @@ CSS 🎨
 
 🚀 Como Usar
 
-Clone este repositório:
+1. Clonar o repositório:
 
-git clone https://github.com/Aghelena/pokedex.git
+git clone https://github.com/eduardocintr/pokedex2.git
 
-Acesse o diretório do projeto:
+2. Acessar o diretório do projeto:
 
 cd pokedex
 
-Instale as dependências:
+3. Instalar as dependências:
 
 npm install
 
-Inicie a aplicação:
+4. Iniciar a aplicação:
 
-npm start
+ npm start
 
-Acesse no navegador:
+5. Acessar no navegador:
 
-http://localhost:3000
+Abra: http://localhost:3000
 
 Digite o nome de um Pokémon e clique em "Search" para visualizar suas informações.
 
 📸 Exemplo de Interface
-
-![Descrição da imagem](poke1.jpeg)
-![Descrição da imagem](poke2.jpeg)
-
-
-🌍 Link do Projeto
-
-Acesse a aplicação online: .[POKEDEX Online](https://pokedex-eta-beige-42.vercel.app)
-
+![alt text](image-1.png)
+![alt text](image-2.png)
