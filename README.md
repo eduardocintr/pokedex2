@@ -52,6 +52,10 @@ npm install
 
 Abra: http://localhost:3000
 
+6. Acessar no navegador HOSPEDADO ONLINE:
+
+https://pokedex-marcion.netlify.app/
+
 Digite o nome de um Pokémon e clique em "Search" para visualizar suas informações.
 
 📸 Exemplo de Interface
